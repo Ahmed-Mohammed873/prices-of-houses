@@ -10,9 +10,12 @@ Test set: Provided by Kaggle for final evaluation.
 
 # Project Structure
 
-├── house_price_prediction.حغ    # Main code (EDA + model + evaluation)
+├── house_price_prediction.   # Main code (EDA + model + evaluation)
+
 ├── requirements.txt                # Python dependencies
+
 ├── README.md                       # Project overview
+
 └── gui.py                          # Optional: GUI interface to test predictions
 
 # Features Used
